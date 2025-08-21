@@ -1,4 +1,4 @@
-# Assignment 5 – Machine Learning in Python (or R)
+# Assignment 5 – Machine Learning in R
 
 **Author**: [Kehinde Soetan]  
 **Email**: [soetan.6@osu.edu]  
