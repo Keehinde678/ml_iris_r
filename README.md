@@ -1,7 +1,7 @@
 # Assignment 5 – Machine Learning in Python (or R)
 
 **Author**: [Kehinde Soetan]  
-**Email**: [kehindesoetan3@gmail.com]  
+**Email**: [soetan.6@osu.edu]  
 **Date**: [07/31/2025]  
 **Environment**: See `environment.yml`  
 **Description**:  
