@@ -63,7 +63,7 @@ my_r_project/
 ## Usage
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Keehinde678/ml_iris_r.git>
 Navigate to the project folder:
 
 cd my_r_project
