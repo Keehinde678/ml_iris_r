@@ -50,15 +50,15 @@ The goal is to explore multiple classification algorithms, understand their perf
 ## Project Structure
 my_r_project/
 
-├── data/ # Dataset files
+├── data/  Dataset files
 
-├── notebooks/ # Jupyter notebooks or RMarkdown files
+├── notebooks/  Jupyter notebooks or RMarkdown files
 
-├── outputs/ # Model outputs, plots, and results
+├── outputs/  Model outputs, plots, and results
 
-├── environment.yml # Environment setup
+├── environment.yml  Environment setup
 
-└── README.md # This file
+└── README.md  This file
 
 ## Usage
 1. Clone the repository:  
