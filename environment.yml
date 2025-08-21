@@ -1,0 +1,9 @@
+name: my_r_env
+channels:
+-conda-forage
+-defaults
+dependencies:
+-r-base=4.3
+-r-essentials
+-r-irkernel
+-jupyter
